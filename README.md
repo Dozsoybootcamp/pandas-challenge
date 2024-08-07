@@ -1,6 +1,8 @@
 # pandas-challenge
 bootcamp pandas-challenge
+
 Summary of the Analysis
+
 The analysis conducted on the school and student performance data provided valuable insights into the educational outcomes across different schools. The primary objective was to examine the relationships between school spending, school size, and student performance, specifically focusing on average math and reading scores, as well as the percentage of students passing these subjects.
 
 The data set comprised information on school budgets, student test scores, and various school characteristics. Key metrics such as average scores and passing percentages were calculated and analyzed for different categories, including school size and per-student spending ranges. This comprehensive analysis helps identify patterns and trends that can inform educational policies and resource allocation.
